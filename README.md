@@ -6,3 +6,4 @@
 28/08  {today class (new tools in figma)}
 29/08  {today class ( sketching a app design)}
 31/08  {today's class (designing)}
+2/09   {today's class ( plugins)}
