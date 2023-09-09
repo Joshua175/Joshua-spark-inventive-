@@ -7,3 +7,4 @@
 29/08  {today class ( sketching a app design)}
 31/08  {today's class (designing)}
 2/09   {today's class ( plugins)}
+9/09   {toda's  class ( work in figma)} 
